@@ -8,3 +8,4 @@ function writeCards(array, eventS){
   }
   return message;
 }
+
